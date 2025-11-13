@@ -1,41 +1,53 @@
-#🎯 Show do Milhão em C
+# 💸 **Show do Milhão em C**
 
-Este projeto é uma simulação do famoso jogo “Show do Milhão”, desenvolvida em linguagem C, com o objetivo de testar conhecimentos gerais e demonstrar conceitos de lógica de programação, como estruturas condicionais, loops e manipulação de variáveis.
+🎯 **Simulação do clássico jogo “Show do Milhão”**, desenvolvida em **linguagem C**, com o objetivo de **testar conhecimentos gerais** e demonstrar **conceitos fundamentais de lógica de programação**, como **estruturas condicionais**, **loops** e **manipulação de variáveis**.
 
-*🧠 Sobre o Projeto*
+---
 
-O programa apresenta uma sequência de perguntas de múltipla escolha, onde o jogador deve escolher a alternativa correta para avançar e acumular prêmios fictícios — inspirado no clássico programa de TV apresentado por Silvio Santos.
+## 🧠 **Sobre o Projeto**
 
-Cada resposta correta aumenta o valor do prêmio, e o jogador pode optar por parar, continuar, ou arriscar tudo para alcançar o grande prêmio de R$ 1.000.000,00! 💰
+O jogo apresenta uma sequência de **perguntas de múltipla escolha**, onde o jogador deve escolher a alternativa correta para **avançar nas fases** e **acumular prêmios fictícios** — inspirado no icônico programa de TV apresentado por **Silvio Santos**.
 
-🖥️ Tecnologias Utilizadas
+💬 A cada acerto, o jogador sobe de nível e aumenta seu prêmio.  
+💥 Se errar, perde tudo!  
+💰 O grande objetivo: alcançar o prêmio máximo de **R$ 1.000.000,00!**
 
-Linguagem: C
+---
 
-Compilador: GCC / MinGW / Dev-C++
+## 🖥️ **Tecnologias Utilizadas**
 
-*⚙️ Funcionalidades*
+| Categoria | Ferramenta |
+|------------|-------------|
+| 💻 Linguagem | **C** |
+| ⚙️ Compilador | **GCC** |
+| 🧩 Paradigma | **Programação Estruturada** |
 
-✅ Exibição de perguntas com quatro alternativas (A, B, C ou D)
-✅ Verificação automática das respostas
-✅ Acúmulo de prêmio a cada acerto
-✅ Opção de parar o jogo e ficar com o valor acumulado
-✅ Mensagens de feedback (acertou, errou, perdeu tudo)
-✅ Interface textual simples e intuitiva
+---
 
-*📚 Conceitos de Programação Aplicados*
+## ⚙️ **Funcionalidades**
 
-Estruturas condicionais
+- ✅ Exibição de perguntas com **quatro alternativas (A, B, C ou D)**  
+- ✅ **Verificação automática** das respostas  
+- ✅ **Acúmulo de prêmios** a cada acerto  
+- ✅ Opção de **parar o jogo** e ficar com o valor acumulado  
+- ✅ **Mensagens interativas** (acertou, errou, perdeu tudo)  
+- ✅ **Interface textual** simples e intuitiva  
 
-Laços de repetição
+---
 
-Funções
+## 📚 **Conceitos de Programação Aplicados**
 
-Vetores e strings
+🧩 Estruturas condicionais: `if`, `else`
+🔁 Laços de repetição: `while`, `for`  
+⚙️ Modularização através de **funções**  
+📦 Uso de **vetores e strings**  
+🚦 Controle de fluxo  
+⌨️ Entrada e saída de dados: `scanf`, `printf`
 
-Controle de fluxo
+---
 
-Entrada e saída de dados (scanf, printf)# Show-do-Milhao
-O algoritmo é referente ao trabalho de AlgProg2 do curso de SI -UFMS
+## 🚀 **Como Executar**
 
-Para uma melhor compreensão do código leia o pdf com o conteúdo
+1. **Clone o repositório**
+   ```bash
+   git clone https://github.com/gabrieldecampos07/Show-do-Milhao.git
